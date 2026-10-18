@@ -7,4 +7,4 @@ export default function Product({ title, price }) {
       <p>Price: ${price}</p>
     </Card>
   );
-}
+} 
